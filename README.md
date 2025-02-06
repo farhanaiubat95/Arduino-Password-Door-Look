@@ -1,0 +1,2 @@
+# Arduino-Password-Door-Look
+ Password-Door-Look is my Arduino-based project designed to enhance security using a password-protected door lock system. It integrates a keypad for password input, an Arduino microcontroller for processing, and a servo motor to control the door lock. The system ensures only authorized users can access the door by entering the correct password. It’s a practical and scalable solution for smart home security. This project showcases my skills in embedded systems and hardware programming.
